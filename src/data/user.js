@@ -34,10 +34,6 @@ const INFO = {
 	},
 
 	projects: [
-		
-
-		
-
 		{
 			title: "webboard-kakak",
 			description:
@@ -63,6 +59,16 @@ const INFO = {
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
 			linkText: "View Project",
 			link: "https://github.com/pongkitkkpk/Wireless_Network_DCK",
+		},
+
+
+		{
+			title: "My Portfolio",
+			description:
+				"This is a link github My portfolio",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://github.com/pongkitkkpk/MyPort",
 		},
 
 		
